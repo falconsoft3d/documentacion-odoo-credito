@@ -34,3 +34,4 @@ Marlon Falcón Hernández | España | Valencia
 
 
 1- Introducción odoo credito: https://www.youtube.com/watch?v=ZTrDLcXGoxQ&t=2s
+2- 
