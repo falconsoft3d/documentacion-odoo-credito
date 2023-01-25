@@ -33,5 +33,15 @@ Marlon Falcón Hernández | España | Valencia
 # Videos de CreditPro
 
 
-1- Introducción odoo credito: https://www.youtube.com/watch?v=ZTrDLcXGoxQ&t=2s
-2- 
+C01 - Introducción a Creditpro, módulo de gestión de créditos Odoo 16
+C02 – Parametrización del módulo de gestión de créditos Odoo 16
+C03 – Métodos de cálculo, módulo de gestión de créditos Odoo 16
+C04 – Solicitud de créditos,  módulo de gestión de créditos Odoo 16
+C05 – Aprobación del crédito, módulo de gestión de créditos Odoo 16
+C06 – Limite de créditos, módulo de gestión de créditos Odoo 16
+C07 – Reprogramación de cuotas, módulo de gestión de créditos Odoo 16
+C08 – Liquidar créditos antes de su fin, módulo de gestión de créditos Odoo 16
+C09 – Factura de credito en uno o dos conceptos, módulo de gestión de créditos Odoo 16
+C10 – Reportes, módulo de gestión de créditos Odoo 16
+C11 – Calculadora de créditos, módulo de gestión de créditos Odoo 16
+C12 – Pagos masivos, módulo de gestión de créditos Odoo 16
