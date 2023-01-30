@@ -1,6 +1,6 @@
 # CreditPro
 Módulo de Gestión de Credito
-![Alt text](https://raw.githubusercontent.com/falconsoft3d/documentacion-odoo-erp-bim-2.0/16.0/banner_bim_20.png "BIM 20")
+![Alt text](https://github.com/falconsoft3d/documentacion-odoo-credito/blob/main/creditpro.png?raw=true "BIM 20")
 
 # Funciones actuales.
 - Integración de módulos de ventas, facturación, inventario y Contactos con créditos
