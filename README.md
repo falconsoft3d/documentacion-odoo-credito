@@ -1,5 +1,5 @@
 # CreditPro
-Módulo de Gestión de Creditos o Prestamos.
+Módulo de Gestión de Créditos o Prestamos.
 
 ---
 
