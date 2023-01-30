@@ -40,11 +40,11 @@ Marlon Falcón Hernández | España | Valencia
 -  C02 – Parametrización del módulo de gestión de créditos Odoo 16. (https://youtu.be/EpTeD7PAHPU)
 -  C03 – Métodos de cálculo, módulo de gestión de créditos Odoo 16. (https://youtu.be/HC_6-Ze1uw0 , https://youtu.be/MdlquOj8nAI, https://www.youtube.com/watch?v=6Qg7o_H5Cj8)
 -  C04 – Solicitud de créditos,  módulo de gestión de créditos Odoo 16. (https://www.youtube.com/watch?v=BrcOO8mlrrk)
--  C05 – Aprobación del crédito, módulo de gestión de créditos Odoo 16.
+-  C05 – Aprobación del crédito, módulo de gestión de créditos Odoo 16. (https://www.youtube.com/watch?v=ZqLPdN3TzyU)
 -  C06 – Limite de créditos, módulo de gestión de créditos Odoo 16. (https://youtu.be/okujm2kAUWI)
--  C07 – Reprogramación de cuotas, módulo de gestión de créditos Odoo 16.
+-  C07 – Reprogramación de cuotas, módulo de gestión de créditos Odoo 16. (ttps://www.youtube.com/watch?v=v1B3uewIodE)
 -  C08 – Liquidar créditos antes de su fin, módulo de gestión de créditos Odoo 16. (https://youtu.be/HkDvnkJnX6c)
 -  C09 – Factura de credito en uno o dos conceptos, módulo de gestión de créditos Odoo 16. (https://youtu.be/nRsb6WeNQ-Y)
--  C10 – Reportes, módulo de gestión de créditos Odoo 16.
+-  C10 – Reportes, módulo de gestión de créditos Odoo 16. (https://www.youtube.com/watch?v=Yj3iZJR5DKA)
 -  C11 – Calculadora de créditos, módulo de gestión de créditos Odoo 16.
 -  C12 – Pagos masivos, módulo de gestión de créditos Odoo 16.
