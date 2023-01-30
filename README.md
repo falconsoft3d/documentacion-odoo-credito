@@ -1,5 +1,8 @@
 # CreditPro
 Módulo de Gestión de Credito
+
+---
+
 ![Alt text](https://github.com/falconsoft3d/documentacion-odoo-credito/blob/main/creditpro.png?raw=true "BIM 20")
 
 # Funciones actuales.
