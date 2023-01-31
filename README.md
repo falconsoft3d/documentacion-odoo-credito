@@ -48,3 +48,4 @@ Marlon Falcón Hernández | España | Valencia
 -  C10 – Reportes, módulo de gestión de créditos Odoo 16. (https://www.youtube.com/watch?v=Yj3iZJR5DKA)
 -  C11 – Calculadora de créditos, módulo de gestión de créditos Odoo 16.
 -  C12 – Pagos masivos, módulo de gestión de créditos Odoo 16.
+-  C13 – Facturas de moras, módulo de gestión de créditos Odoo 16.
